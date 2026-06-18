@@ -1,6 +1,6 @@
 # VideoMiner — Proyecto de Integración AISS
 
-Proyecto de integración desarrollado para la asignatura de **AISS**, organizado en una arquitectura de microservicios multi-módulo que automatiza la extracción, transformación y almacenamiento de datos de plataformas de vídeo.
+Proyecto de integración desarrollado para la asignatura de **AISS**, organizado en una arquitectura de microservicios que automatiza la extracción, transformación y almacenamiento de datos de plataformas de vídeo.
 
 ---
 
