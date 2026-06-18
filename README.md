@@ -17,11 +17,11 @@ El repositorio está compuesto por tres módulos o servicios independientes de *
 
 ## Características Principales
 
-* ** API REST Completa**: Endpoints CRUD totalmente operativos para la gestión integral de `Canales`, `Vídeos`, `Comentarios` (Comments) y `Subtítulos` (Captions).
-* ** Robustez y Control de Errores**: Sistema centralizado de gestión de excepciones (`GlobalExceptionHandler`) y validación de datos implementados en el núcleo de `videominer`.
-* ** Documentación Interactiva**: Controladores principales completamente anotados e integrados con **Swagger / OpenAPI** para una autogeneración limpia de la documentación.
-* ** Batería de Pruebas**: Tests de integración y unitarios básicos nativos de Spring Boot configurados a lo largo de los tres módulos.
-* ** Entorno de Pruebas Postman**: Colección exhaustiva con flujos de pruebas (`GET`, `POST`, `PUT`, `DELETE`) para simular la minería de datos y verificar la persistencia en base de datos.
+* **API REST Completa**: Endpoints CRUD totalmente operativos para la gestión integral de `Canales`, `Vídeos`, `Comentarios` (Comments) y `Subtítulos` (Captions).
+* **Robustez y Control de Errores**: Sistema centralizado de gestión de excepciones (`GlobalExceptionHandler`) y validación de datos implementados en el núcleo de `videominer`.
+* **Documentación Interactiva**: Controladores principales completamente anotados e integrados con **Swagger / OpenAPI** para una autogeneración limpia de la documentación.
+* ** atería de Pruebas**: Tests de integración y unitarios básicos nativos de Spring Boot configurados a lo largo de los tres módulos.
+* **Entorno de Pruebas Postman**: Colección exhaustiva con flujos de pruebas (`GET`, `POST`, `PUT`, `DELETE`) para simular la minería de datos y verificar la persistencia en base de datos.
 
 ---
 
