@@ -1,0 +1,7 @@
+package videominer.src.main.java.aiss.videominer.exceptions;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.ResponseStatus;
+
+@ResponseStatus(code = HttpStatus.NOT_FOUND, reason = "Error 404: El vídeo indicado no existe en la base de datos")
+public class VideoNotFoundException extends Exception {}
